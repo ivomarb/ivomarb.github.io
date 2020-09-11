@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ffe512d9d746957d71561ced179637e",
+    "revision": "a5c8362c66be5ab00a5013e20e7c9691",
     "url": "/index.html"
   },
   {
-    "revision": "e9b43374b10437ffbda2",
+    "revision": "a4e4dbedcc5c77d45737",
     "url": "/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "10d852fb348be76542ce",
+    "revision": "a3d24927dc0b45a3f85a",
     "url": "/static/css/main.9fc689ea.chunk.css"
   },
   {
-    "revision": "e9b43374b10437ffbda2",
-    "url": "/static/js/2.531b9a16.chunk.js"
+    "revision": "a4e4dbedcc5c77d45737",
+    "url": "/static/js/2.9c4c71ed.chunk.js"
   },
   {
     "revision": "80fa05aac9f80c71b5f99ecec6ead10d",
-    "url": "/static/js/2.531b9a16.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.9c4c71ed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10d852fb348be76542ce",
-    "url": "/static/js/main.d7199597.chunk.js"
+    "revision": "a3d24927dc0b45a3f85a",
+    "url": "/static/js/main.f9b32d2c.chunk.js"
   },
   {
     "revision": "c88671eb88bf6c28dee9",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f3e984e2f443d7a1ee3d04497e493a34",
     "url": "/static/media/airtop-logo.f3e984e2.png"
+  },
+  {
+    "revision": "93ee39eec022779291c22c0dfd6f8de6",
+    "url": "/static/media/cgdatascience-logo.93ee39ee.jpg"
   },
   {
     "revision": "fd650cd7dfe3d511e01dedcf4c6aea36",
