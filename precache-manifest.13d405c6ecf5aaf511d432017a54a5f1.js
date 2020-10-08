@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1ceb500d0bf1a3ceb87482fdea7313c",
+    "revision": "83d520f7b979ba20cd59b1b1757261ae",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "5dbe11f237e76c878bf3",
+    "revision": "9a76a712f2ec3de11b9c",
     "url": "/static/css/main.9fc689ea.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.9c4c71ed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5dbe11f237e76c878bf3",
-    "url": "/static/js/main.4f3a98ef.chunk.js"
+    "revision": "9a76a712f2ec3de11b9c",
+    "url": "/static/js/main.1769ff9f.chunk.js"
   },
   {
     "revision": "c88671eb88bf6c28dee9",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/cgdatascience-logo.93ee39ee.jpg"
   },
   {
-    "revision": "fd650cd7dfe3d511e01dedcf4c6aea36",
-    "url": "/static/media/resume.fd650cd7.pdf"
+    "revision": "2f23d7e029eb22355c3525039c0654e1",
+    "url": "/static/media/resume.2f23d7e0.pdf"
   },
   {
     "revision": "f8ba65f34ffd6fb9ea6e65c5bd75723f",
